@@ -35,7 +35,7 @@ import sys
 from pathlib import Path
 
 
-SUPPORTED_YEARS = ["2019", "2020", "2021"]
+SUPPORTED_YEARS = ["2019", "2020", "2021", "2022"]
 
 
 HEADER_REGEX = fr"""(#!/usr/bin/env python3
